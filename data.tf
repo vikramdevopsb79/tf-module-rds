@@ -1,3 +1,3 @@
 data "vault_generic_secret" "rds" {
-  path = "expense-dev/rds"
+  path = "infra-secrets/rds"
 }
